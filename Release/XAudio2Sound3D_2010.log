@@ -1,0 +1,21 @@
+﻿Build started 4/22/2013 13:02:07.
+     1>Project "C:\Users\Dizzi\Documents\Visual Studio 2010\Projects\wavRide\XAudio2Sound3D_2010.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Release\WavRide.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       ResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         XAudio2Sound3D_2010.vcxproj -> C:\Users\Dizzi\Documents\Visual Studio 2010\Projects\wavRide\Release\WavRide.exe
+       Manifest:
+         All outputs are up-to-date.
+       FinalizeBuildStatus:
+         Deleting file "Release\WavRide.unsuccessfulbuild".
+         Touching "Release\WavRide.lastbuildstate".
+     1>Done Building Project "C:\Users\Dizzi\Documents\Visual Studio 2010\Projects\wavRide\XAudio2Sound3D_2010.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.16

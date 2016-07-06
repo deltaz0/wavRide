@@ -1,0 +1,23 @@
+﻿Build started 4/22/2013 13:03:02.
+     1>Project "C:\Users\Dizzi\Documents\Visual Studio 2010\Projects\wavRide\XAudio2Sound3D_2010.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\WavRide.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       ResourceCompile:
+         All outputs are up-to-date.
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\WavRide.exe.embed.manifest" /manifest Debug\WavRide.exe.intermediate.manifest "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+         All outputs are up-to-date.
+       FinalizeBuildStatus:
+         Deleting file "Debug\WavRide.unsuccessfulbuild".
+         Touching "Debug\WavRide.lastbuildstate".
+     1>Done Building Project "C:\Users\Dizzi\Documents\Visual Studio 2010\Projects\wavRide\XAudio2Sound3D_2010.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.09
